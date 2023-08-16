@@ -1,4 +1,5 @@
 /Users/kelvineduful/Desktop/github/java-grpc-test/grpc-hello-server/src/main/java/com/example/grpc/App.java
 /Users/kelvineduful/Desktop/github/java-grpc-test/grpc-hello-server/target/generated-sources/protobuf/grpc-java/com/example/grpc/GreetingServiceGrpc.java
 /Users/kelvineduful/Desktop/github/java-grpc-test/grpc-hello-server/target/generated-sources/protobuf/java/com/example/grpc/GreetingServiceOuterClass.java
+/Users/kelvineduful/Desktop/github/java-grpc-test/grpc-hello-server/src/main/java/com/example/grpc/Client.java
 /Users/kelvineduful/Desktop/github/java-grpc-test/grpc-hello-server/src/main/java/com/example/grpc/GreetingServiceImpl.java
