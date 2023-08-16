@@ -1,3 +1,4 @@
+com/example/grpc/GreetingServiceImpl.class
 com/example/grpc/GreetingServiceGrpc$GreetingServiceStub.class
 com/example/grpc/GreetingServiceGrpc$GreetingServiceBlockingStub.class
 com/example/grpc/GreetingServiceOuterClass.class
